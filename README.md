@@ -10,6 +10,7 @@
  1. Getting Started: Create and Manage Cloud Resources
  2. Perform Foundational Infrastructure Tasks in Google Cloud
  3. Build and Secure Networks in Google Cloud
+ 4. Deploy to Kubernetes in Google Cloud
 
 ### *Note*
  - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.
