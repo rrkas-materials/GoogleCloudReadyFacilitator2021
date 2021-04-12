@@ -6,6 +6,7 @@
  3. 05 [Quest] Networking in the Google Cloud
  4. 07 [Quest] Kubernetes in Google Cloud
  5. 09 [Quest] Cloud Engineering
+ 6. 11 [Quest] DevOps Essentials
 
 ## *Skill Badges*
  1. 02 [Skill Badge] Getting Started Create and Manage Cloud Resources
