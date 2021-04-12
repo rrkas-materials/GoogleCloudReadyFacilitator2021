@@ -7,13 +7,15 @@
  4. 07 [Quest] Kubernetes in Google Cloud
  5. 09 [Quest] Cloud Engineering
  6. 11 [Quest] DevOps Essentials
+ 7. 13 [Quest] Security & Identity Fundamentals
 
 ## *Skill Badges*
  1. 02 [Skill Badge] Getting Started Create and Manage Cloud Resources
  2. 04 [Skill Badge] Perform Foundational Infrastructure Tasks in Google Cloud
- 3. 06  [Skill Badge] Build and Secure Networks in Google Cloud
+ 3. 06 [Skill Badge] Build and Secure Networks in Google Cloud
  4. 08 [Skill Badge] Deploy to Kubernetes in Google Cloud
  5. 10 [Skill Badge] Setup and Configure a Cloud Environment in Google Cloud
+ 6. 12 [Skill Badge] Implement DevOps in Google Cloud (pending)
 
 ### *Note*
  - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.
