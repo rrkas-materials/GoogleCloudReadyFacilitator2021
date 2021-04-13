@@ -8,6 +8,7 @@
  5. 09 [Quest] Cloud Engineering
  6. 11 [Quest] DevOps Essentials
  7. 13 [Quest] Security & Identity Fundamentals
+ 8. 15 [Quest] Understanding Your Google Cloud Costs
 
 ## *Skill Badges*
  1. 02 [Skill Badge] Getting Started Create and Manage Cloud Resources
