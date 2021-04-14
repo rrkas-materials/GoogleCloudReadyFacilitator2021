@@ -17,7 +17,7 @@
  3. 06 [Skill Badge] Build and Secure Networks in Google Cloud
  4. 08 [Skill Badge] Deploy to Kubernetes in Google Cloud
  5. 10 [Skill Badge] Setup and Configure a Cloud Environment in Google Cloud
- 6. ***12 [Skill Badge] Implement DevOps in Google Cloud (pending)***
+ 6. 12 [Skill Badge] Implement DevOps in Google Cloud
  7. 14 [Skill Badge] Ensure Access & Identity in Google Cloud
 
 ### *Note*
