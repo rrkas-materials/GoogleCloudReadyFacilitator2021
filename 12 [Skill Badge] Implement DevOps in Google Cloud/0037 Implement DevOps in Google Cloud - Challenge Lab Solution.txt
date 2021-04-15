@@ -1,0 +1,5 @@
+video:
+https://www.youtube.com/watch?v=prX8WGMsJ6I&t=1419s
+
+code:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTFTa3lsRndCOXkxZEZLQ1AxMm5SbHZBaFBLd3xBQ3Jtc0trYjhoRTd3ckdkYnlLUENvTUdqUUZZcWZJNlhDakx4NUgySWxBT3N1d29pbGFUZ3ozcHU3TmNlOEc0bmNXamRJcWtHMENkdllPQzlTSlkxWnRiRDY5cGFfS2RwemltUHdrX3dBTTlKa3g5MGdmMXZrOA&q=https%3A%2F%2Fgithub.com%2Frahullrajesh%2Fimplement-devops%2Fblob%2Fmaster%2Fcommands
