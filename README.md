@@ -19,6 +19,7 @@
  5. 10 [Skill Badge] Setup and Configure a Cloud Environment in Google Cloud
  6. 12 [Skill Badge] Implement DevOps in Google Cloud
  7. 14 [Skill Badge] Ensure Access & Identity in Google Cloud
+ 8. 17 [Skill Badge] Cloud Architecture Design, Implement, and Manage
 
 ### *Note*
  - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.
