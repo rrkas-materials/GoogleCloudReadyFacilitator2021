@@ -10,6 +10,7 @@
  7. 13 [Quest] Security & Identity Fundamentals
  8. 15 [Quest] Understanding Your Google Cloud Costs
  9. 16 [Quest] Google Cloud Solutions I
+ 10. 18 [Quest] Cloud Architecture
 
 ## *Skill Badges*
  1. 02 [Skill Badge] Getting Started Create and Manage Cloud Resources
