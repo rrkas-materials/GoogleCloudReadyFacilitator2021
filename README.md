@@ -35,7 +35,7 @@
  7. 14 [Skill Badge] Ensure Access & Identity in Google Cloud
  8. 17 [Skill Badge] Cloud Architecture Design, Implement, and Manage
 
-**Track 2**
+**Track 2**  
  9. 21 [Skill Badge] Build Interactive Apps with Google Assistant
 
 ### *Note*
