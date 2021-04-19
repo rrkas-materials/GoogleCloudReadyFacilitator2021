@@ -1,0 +1,144 @@
+README.md
+
+./01 [Quest] Google Cloud Essentials:
+0001_A_Tour_of_quiklabs_and_google_cloud.pdf
+0002_Creating_a_Virtual_Machine.pdf
+0003_Compute_Engine_Qwik_Start_Windows.pdf
+0004_Getting_Started_with_Cloud_Shell_and_gcloud.pdf
+0005_Kubernetes_Engine_Qwik_Start.pdf
+0006_Set_Up_Network_and_HTTP_Load_Balancers.pdf
+README.pdf
+
+./02 [Skill Badge] Getting Started Create and Manage Cloud Resources:
+0007_Create_and_Manage_Cloud_Resources_Challenge_Lab.pdf
+README.pdf
+
+./03 [Quest] Baseline Infrastructure:
+0008_Cloud_Storage_Qwik_Start_Cloud_Console.pdf
+0009_Cloud_Storage_Qwik_Start_CLI_SDK.pdf
+0010_Cloud_IAM_Qwik_Start.pdf
+0011_Cloud_Monitoring_Qwik_Start.pdf
+0012_Cloud_Functions_Qwik_Start_Console.pdf
+0013_Cloud_Functions_Qwik_Start_Command_Line.pdf
+0014_Google_Cloud_Pub_Sub_Qwik_Start_Console.pdf
+0015_Google_Cloud_Pub_Sub_Qwik_Start_Command_Line.pdf
+0016_Google_Cloud_Pub_Sub_Qwik_Start_Python.pdf
+0017_Pub_Sub_Lite_Qwik_Start.pdf
+README.pdf
+
+./04 [Skill Badge] Perform Foundational Infrastructure Tasks in Google Cloud:
+0018_Perform_Foundational_Infrastructure_Tasks_in_Google_Cloud_Challenge_Lab.pdf
+README.pdf
+
+./05 [Quest] Networking in the Google Cloud:
+0019_User_Authentication_Identity_Aware_Proxy.pdf
+0020_Multiple_VPC_Networks.pdf
+0021_VPC_Networks_Controlling_Access.pdf
+0022_HTTP_Load_Balancer_with_Cloud_Armor.pdf
+0023_Create_an_Internal_Load_Balancer.pdf
+0024_Google_Cloud_Packet_Mirroring_with_OpenSource_IDS.pdf
+README.pdf
+
+./06 [Skill Badge] Build and Secure Networks in Google Cloud:
+0025_Build_and_Secure_Networks_in_Google_Cloud_Challenge_Lab.pdf
+README.pdf
+
+./07  [Quest] Kubernetes in Google Cloud:
+0026_Introduction_to_Docker.pdf
+0027_Orchestrating_the_Cloud_with_Kubernetes.pdf
+0028_Managing_Deployments_Using_Kubernetes_Engine.pdf
+0029_Continuous_Delivery_with_Jenkins_in_Kubernetes_Engine.pdf
+README.pdf
+
+./08 [Skill Badge] Deploy to Kubernetes in Google Cloud:
+0030_Deploy_to_Kubernetes_in_Google_Cloud_Challenge_Lab.pdf
+README.pdf
+
+./09 [Quest] Cloud Engineering:
+0031_Introduction_to_SQL_for_BigQuery_and_Cloud_SQL.pdf
+README.pdf
+
+./10 [Skill Badge] Setup and Configure a Cloud Environment in Google Cloud:
+0032_Set_Up_and_Configure_a_Cloud_Environment_in_Google_Cloud_Challenge_Lab.pdf
+README.pdf
+
+./11 [Quest] DevOps Essentials:
+0033_Accelerate_the_State_of_DevOps_2019.txt
+0034_Cloud_Source_Repositories_Qwik_Start.pdf
+0035_Deploy_Kubernetes_Load_Balancer_Service_with_Terraform.pdf
+0036_Site_Reliability_Troubleshooting_with_Cloud_Monitoring_APM.pdf
+README.pdf
+
+./12 [Skill Badge] Implement DevOps in Google Cloud:
+0037 Implement DevOps in Google Cloud - Challenge Lab Solution.txt
+0037 Implement DevOps in Google Cloud - Challenge Lab.pdf
+README.pdf
+
+./13 [Quest] Security & Identity Fundamentals:
+0038_IAM_Custom_Roles.pdf
+0039_Service_Accounts_and_Roles_Fundamentals.pdf
+0040_VPC_Network_Peering.pdf
+0041_Getting_Started_with_Cloud_KMS.pdf
+0042_Setting_up_a_Private_Kubernetes_Cluster.pdf
+README.pdf
+
+./14 [Skill Badge] Ensure Access & Identity in Google Cloud:
+0043_Ensure_Access_and_Identity_in_Google_Cloud_Challenge_Lab Solution.txt
+0043_Ensure_Access_and_Identity_in_Google_Cloud_Challenge_Lab.pdf
+README.pdf
+
+./15 [Quest] Understanding Your Google Cloud Costs:
+0044 [VIDEO] Setting Up Your Google Cloud Billing Account.txt
+0045 [VIDEO] Organizing Your Google Cloud Resources.pdf
+0046 [VIDEO] Managing Billing Accounts.pdf
+0047 [VIDEO] Managing Billing Access Permissions.txt
+0048 [VIDEO] Google Cloud Resource Management.txt
+0049 [Knowledge Check] Managing Your Billing Account.pdf
+0050 [VIDEO] Tracking and Understanding Your Google Cloud Costs.txt
+0051 [VIDEO] Understanding Your Google Cloud Invoice.txt
+0052 [VIDEO] Exploring Your Google Cloud Costs with Billing Reports.txt
+0053 Understanding and Analyzing Your Costs with Google Cloud Billing Reports.pdf
+0054 [VIDEO] Exporting your Billing Data and Creating Custom Dashboards.txt
+0055 Analyzing Billing Data with BigQuery.pdf
+0056 Visualizing Billing Data with Google Data Studio.pdf
+0057 Examining BigQuery Billing Data in Google Sheets.pdf
+README.pdf
+
+./16 [Quest] Google Cloud Solutions I:
+0058 Autoscaling an Instance Group with Custom Cloud Monitoring Metrics.pdf
+0059 Setting up Jenkins on Kubernetes Engine.pdf
+0060 Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine.pdf
+0061 Deploying a Fault-Tolerant Microsoft Active Directory Environment.pdf
+0062 Deploying Memcached on Kubernetes Engine.pdf
+0063 Running Dedicated Game Servers in Google Kubernetes Engine.pdf
+0064 Distributed Load Testing Using Kubernetes.pdf
+README.pdf
+
+./17 [Skill Badge] Cloud Architecture Design, Implement, and Manage:
+0065 Google Cloud Essential Skills - Challenge Lab.pdf
+0066 Deploy a Compute Instance with a Remote Startup Script.pdf
+0067 Configure a Firewall and a Startup Script with Deployment Manager.pdf
+0068 Configure Secure RDP using a Windows Bastion Host.pdf
+0069 Build and Deploy a Docker Image to a Kubernetes Cluster.pdf
+0070 Scale Out and Update a Containerized Application on a Kubernetes Cluster.pdf
+0071 Migrate a MySQL Database to Google Cloud SQL.pdf
+README.pdf
+
+./18 [Quest] Cloud Architecture:
+README.pdf
+
+./19 [Quest] Google Developer Essentials:
+0072 Weather Data in BigQuery.pdf
+0073 Classify Images of Clouds in the Cloud with AutoML Vision.pdf
+0074 Entity and Sentiment Analysis with the Natural Language API.pdf
+0075 Google Assistant - Build a Restaurant Locator with the Places API.pdf
+0076 App Engine - Qwik Start - Java.pdf
+0077 App Engine - Qwik Start - Python.pdf
+README.pdf
+
+./20 [Quest] OK Google Build Interactive Apps with Google Assistant:
+0078 Google Assistant - Qwik Start - Dialogflow.pdf
+0079 Introduction to APIs in Google.pdf
+0080 Google Assistant - Build an Application with Dialogflow and Cloud Functions.pdf
+0081 Google Assistant - Build a Youtube Entertainment App.pdf
+README.pdf
