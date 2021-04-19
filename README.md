@@ -19,7 +19,7 @@
  10. 18 [Quest] Cloud Architecture
 
 **Track 2**  
- 11. 19 [Quest] Google Developer Essentials
+ 11. 19 [Quest] Google Developer Essentials  
  12. 20 [Quest] OK Google Build Interactive Apps with Google Assistant
 
 
