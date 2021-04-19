@@ -142,3 +142,7 @@ README.pdf
 0080 Google Assistant - Build an Application with Dialogflow and Cloud Functions.pdf
 0081 Google Assistant - Build a Youtube Entertainment App.pdf
 README.pdf
+
+./21 [Skill Badge] Build Interactive Apps with Google Assistant:
+0082 Build Interactive Apps with Google Assistant - Challenge Lab.pdf
+README.pdf
