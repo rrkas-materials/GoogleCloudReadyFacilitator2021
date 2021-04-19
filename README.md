@@ -1,6 +1,7 @@
 # ***Google Cloud Ready Facilitator 2021***
 
 ## *Quests*
+**Track 1**  
  1. 01 [Quest] Google Cloud Essentials
  2. 03 [Quest] Baseline Infrastructure
  3. 05 [Quest] Networking in the Google Cloud
@@ -12,7 +13,13 @@
  9. 16 [Quest] Google Cloud Solutions I
  10. 18 [Quest] Cloud Architecture
 
+**Track 2**  
+ 11. 19 [Quest] Google Developer Essentials
+
+
+
 ## *Skill Badges*
+**Track 1**  
  1. 02 [Skill Badge] Getting Started Create and Manage Cloud Resources
  2. 04 [Skill Badge] Perform Foundational Infrastructure Tasks in Google Cloud
  3. 06 [Skill Badge] Build and Secure Networks in Google Cloud
