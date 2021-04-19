@@ -146,3 +146,10 @@ README.pdf
 ./21 [Skill Badge] Build Interactive Apps with Google Assistant:
 0082 Build Interactive Apps with Google Assistant - Challenge Lab.pdf
 README.pdf
+
+./22 [Quest] Machine Learning APIs:
+0083 Extract, Analyze, and Translate Text from Images with the Cloud ML APIs.pdf
+0084 Classify Text into Categories with the Natural Language API.pdf
+0085 Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API.pdf
+0086 Awwvision - Cloud Vision API from a Kubernetes Cluster.pdf
+README.pdf
