@@ -1,5 +1,10 @@
 # ***Google Cloud Ready Facilitator 2021***
 
+## *Tracks*
+ 1. **Track 1** : Cloud Infrastructure Track
+ 2. **Track 2** : Cloud-native Application Development Track
+ 3. **Track 3** : Big Data & Machine Learning Track
+
 ## *Quests*
 **Track 1**  
  1. 01 [Quest] Google Cloud Essentials
@@ -15,6 +20,7 @@
 
 **Track 2**  
  11. 19 [Quest] Google Developer Essentials
+ 12. 20 [Quest] OK Google Build Interactive Apps with Google Assistant
 
 
 
