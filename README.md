@@ -37,7 +37,8 @@
  8. 17 [Skill Badge] Cloud Architecture Design, Implement, and Manage
 
 **Track 2**  
- 9. 21 [Skill Badge] Build Interactive Apps with Google Assistant
+ 9. 21 [Skill Badge] Build Interactive Apps with Google Assistant  
+ 10. 23 [Skill Badge] Integrate with Machine Learning APIs  
 
 ### *Note*
  - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.

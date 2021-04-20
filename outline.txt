@@ -153,3 +153,7 @@ README.pdf
 0085 Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API.pdf
 0086 Awwvision - Cloud Vision API from a Kubernetes Cluster.pdf
 README.pdf
+
+./23 [Skill Badge] Integrate with Machine Learning APIs:
+0087 Integrate with Machine Learning APIs - Challenge Lab.pdf
+README.pdf
