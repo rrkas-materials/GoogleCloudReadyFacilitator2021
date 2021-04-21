@@ -22,6 +22,7 @@
  11. 19 [Quest] Google Developer Essentials  
  12. 20 [Quest] OK Google Build Interactive Apps with Google Assistant  
  13. 22 [Quest] Machine Learning APIs  
+ 14. 24 [Quest] Cloud Development  
 
 
 

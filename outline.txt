@@ -157,3 +157,20 @@ README.pdf
 ./23 [Skill Badge] Integrate with Machine Learning APIs:
 0087 Integrate with Machine Learning APIs - Challenge Lab.pdf
 README.pdf
+
+./24 [Quest] Cloud Development:
+0088 App Dev - Setting up a Development Environment - Python.pdf
+0089 App Dev - Setting up a Development Environment - Java.pdf
+0090 App Dev - Storing Application Data in Cloud Datastore - Python.pdf
+0091 App Dev - Storing Application Data in Cloud Datastore - Java.pdf
+0092 App Dev - Storing Image and Video Files in Cloud Storage - Python.pdf
+0093 App Dev-Storing Image and Video Files in Cloud Storage-Java.pdf
+0094 App Dev - Adding User Authentication to your Application - Python.pdf
+0095 App Dev-Adding User Authentication to your Application-Java.pdf
+0096 App Dev - Developing a Backend Service - Python.pdf
+0097 App Dev - Developing a Backend Service - Java.pdf
+0098 App Dev - Deploying the Application into Kubernetes Engine - Python.pdf
+0099 App Dev - Deploying the Application into Kubernetes Engine - Java.pdf
+0100 App Dev - Deploying the Application into App Engine Flexible Environment - Java.pdf
+0101 Cloud Profiler - Qwik Start.pdf
+README.pdf
