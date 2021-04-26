@@ -174,3 +174,11 @@ README.pdf
 0100 App Dev - Deploying the Application into App Engine Flexible Environment - Java.pdf
 0101 Cloud Profiler - Qwik Start.pdf
 README.pdf
+
+./25 [Quest] Cloud Logging:
+102 Fundamentals of Cloud Logging.pdf
+103 Using BigQuery and Cloud Logging to Analyze BigQuery Usage.pdf
+104 Cloud Logging on Kubernetes Engine.pdf
+105 Monitoring and Logging for Cloud Functions.pdf
+106 Creating and Alerting on Logs-based Metrics.pdf
+README.pdf
