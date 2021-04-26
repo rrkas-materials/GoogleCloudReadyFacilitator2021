@@ -182,3 +182,13 @@ README.pdf
 105 Monitoring and Logging for Cloud Functions.pdf
 106 Creating and Alerting on Logs-based Metrics.pdf
 README.pdf
+
+./26 [Quest] Website on Google Cloud:
+107 [VIDEO] Hosting a Static Web App on Google Cloud using Cloud Storage.txt
+108 Deploy Your Website on Cloud Run.pdf
+109 [VIDEO] Hosting a Web App on Google Cloud using Compute Engine.txt
+110 Hosting a Web App on Google Cloud Using Compute Engine.pdf
+111 Deploy, Scale, and Update Your Website on Google Kubernetes Engine.pdf
+112 Migrating a Monolithic Website to Microservices on Google Kubernetes Engine.pdf
+113 [VIDEO] Hosting Scalable web apps on Google Cloud.txt
+README.pdf
