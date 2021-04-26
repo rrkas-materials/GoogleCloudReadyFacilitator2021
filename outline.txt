@@ -192,3 +192,7 @@ README.pdf
 112 Migrating a Monolithic Website to Microservices on Google Kubernetes Engine.pdf
 113 [VIDEO] Hosting Scalable web apps on Google Cloud.txt
 README.pdf
+
+./27 [Skill Badge] Build a Website on Google Cloud:
+114 Build a Website on Google Cloud - Challenge Lab.pdf
+README.pdf

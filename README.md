@@ -41,6 +41,7 @@
 **Track 2**  
  9. 21 [Skill Badge] Build Interactive Apps with Google Assistant  
  10. 23 [Skill Badge] Integrate with Machine Learning APIs  
+ 11. 27 [Skill Badge] Build a Website on Google Cloud  
 
 ### *Note*
  - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.
