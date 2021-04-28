@@ -196,3 +196,21 @@ README.pdf
 ./27 [Skill Badge] Build a Website on Google Cloud:
 0114 Build a Website on Google Cloud - Challenge Lab.pdf
 README.pdf
+
+./28 [Quest] Baseline Deploy & Develop:
+0115 Google Cloud SDK - Qwik Start - Redhat_Centos.pdf
+0116 App Engine - Qwik Start - Go.pdf
+0117 App Engine - Qwik Start - PHP.pdf
+0118 App Engine - Qwik Start - Ruby.pdf
+0119 Container-Optimized OS - Qwik Start.pdf
+0120 Datastore - Qwik Start.pdf
+0121 Cloud SQL for MySQL - Qwik Start.pdf
+0122 Cloud SQL for PostgreSQL - Qwik Start.pdf
+0123 Data Loss Prevention - Qwik Start - Command Line.pdf
+0124 Data Loss Prevention - Qwik Start - JSON.pdf
+0125 Cloud Functions - Qwik Start - Command Line.pdf
+0126 Cloud Functions - Qwik Start - Console.pdf
+0127 Video Intelligence - Qwik Start.pdf
+0128 Cloud Security Scanner - Qwik Start.pdf
+0129 Cloud Endpoints - Qwik Start.pdf
+README.pdf

@@ -25,6 +25,7 @@
  14. 24 [Quest] Cloud Development  
  15. 25 [Quest] Cloud Logging  
  16. 26 [Quest] Website on Google Cloud  
+ 17. 28 [Quest] Baseline Deploy & Develop  
 
 
 ## *Skill Badges*
