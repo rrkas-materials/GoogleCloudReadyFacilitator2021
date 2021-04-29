@@ -214,3 +214,15 @@ README.pdf
 0128 Cloud Security Scanner - Qwik Start.pdf
 0129 Cloud Endpoints - Qwik Start.pdf
 README.pdf
+
+./29 [Quest] Exploring APIs:
+0130 APIs Explorer - Qwik Start.pdf
+0131 APIs Explorer - Cloud Storage.pdf
+0132 APIs Explorer - Create and Update a Cluster.pdf
+0133 APIs Explorer - Compute Engine.pdf
+0134 APIs Explorer - App Engine.pdf
+0135 APIs Explorer - Cloud SQL.pdf
+0136 Cloud Natural Language API - Qwik Start.pdf
+0137 APIs Explorer - PubSub and IoT.pdf
+0138 Google Cloud Speech API - Qwik Start.pdf
+README.pdf
