@@ -236,3 +236,13 @@ README.pdf
 0144 Using Cloud Logging with IoT Core Devices.pdf
 0145 Using Firestore with Cloud IoT Core for Device Configuration.pdf
 README.pdf
+
+./31 [Quest] Workspace Integrations:
+0146 Creating a Gmail Add-on.pdf
+0147 Google Apps Script - Access Google Sheets, Maps & Gmail in 4 Lines of Code.pdf
+0148 The Apps Script CLI - clasp.pdf
+0149 Hangouts Chat bot - Apps Script.pdf
+0150 Google Sheets as a Reporting Tool - Sheets API.pdf
+0151 Big Data Analysis to a Slide Presentation.pdf
+0152 Using the Natural Language API from Google Docs.pdf
+README.pdf

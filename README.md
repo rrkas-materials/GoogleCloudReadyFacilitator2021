@@ -28,6 +28,7 @@
  17. 28 [Quest] Baseline Deploy & Develop  
  18. 29 [Quest] Exploring APIs  
  19. 30 [Quest] IoT in the Google Cloud  
+ 20. 31 [Quest] Workspace Integrations  
 
 
 ## *Skill Badges*
