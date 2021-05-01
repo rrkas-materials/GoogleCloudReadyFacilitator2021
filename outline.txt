@@ -226,3 +226,13 @@ README.pdf
 0137 APIs Explorer - PubSub and IoT.pdf
 0138 Google Cloud Speech API - Qwik Start.pdf
 README.pdf
+
+./30 [Quest] IoT in the Google Cloud:
+0139 Internet of Things - Qwik Start.pdf
+0140 Streaming IoT Data to Cloud Storage.pdf
+0141 Streaming IoT Core Data to Dataprep.pdf
+0142 Building an IoT Analytics Pipeline on Google Cloud.pdf
+0143 A Tour of Cloud IoT Core.pdf
+0144 Using Cloud Logging with IoT Core Devices.pdf
+0145 Using Firestore with Cloud IoT Core for Device Configuration.pdf
+README.pdf

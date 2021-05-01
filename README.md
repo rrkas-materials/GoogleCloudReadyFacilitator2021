@@ -27,6 +27,7 @@
  16. 26 [Quest] Website on Google Cloud  
  17. 28 [Quest] Baseline Deploy & Develop  
  18. 29 [Quest] Exploring APIs  
+ 19. 30 [Quest] IoT in the Google Cloud  
 
 
 ## *Skill Badges*
