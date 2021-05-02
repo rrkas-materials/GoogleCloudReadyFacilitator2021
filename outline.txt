@@ -246,3 +246,14 @@ README.pdf
 0151 Big Data Analysis to a Slide Presentation.pdf
 0152 Using the Natural Language API from Google Docs.pdf
 README.pdf
+
+./32 [Quest] Baseline Data, ML, AI:
+0153.1_ai_platform_qwik_start.ipynb
+0153_AI_Platform_Qwik_Start.pdf
+0154_Dataprep_Qwik_Start.pdf
+0155_Dataflow_Qwik_Start_Templates.pdf
+0156 Dataflow - Qwik Start - Python.pdf
+0157 Dataproc - Qwik Start - Console.pdf
+0158 Dataproc - Qwik Start - Command Line.pdf
+0159 Reinforcement Learning - Qwik Start.pdf
+README.pdf

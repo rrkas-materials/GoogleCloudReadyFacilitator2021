@@ -30,6 +30,9 @@
  19. 30 [Quest] IoT in the Google Cloud  
  20. 31 [Quest] Workspace Integrations  
 
+**Track 3**  
+ 21. 32 [Quest] Baseline Data, ML, AI  
+
 
 ## *Skill Badges*
 **Track 1**  
