@@ -50,6 +50,10 @@
  10. 23 [Skill Badge] Integrate with Machine Learning APIs  
  11. 27 [Skill Badge] Build a Website on Google Cloud  
 
+**Track 3**  
+ 12. 33 [Skill Badge] Perform Foundational Data, ML, and AI Tasks in Google Cloud  
+
+
 ### *Note*
  - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.
  - follow outline.txt to find where the lab is located in the folder hierarchy.

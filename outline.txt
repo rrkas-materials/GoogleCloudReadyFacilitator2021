@@ -1,3 +1,5 @@
+0000 quests and skill badges.pdf
+outline.txt
 README.md
 
 ./01 [Quest] Google Cloud Essentials:
@@ -256,4 +258,10 @@ README.pdf
 0157 Dataproc - Qwik Start - Console.pdf
 0158 Dataproc - Qwik Start - Command Line.pdf
 0159 Reinforcement Learning - Qwik Start.pdf
+README.pdf
+
+./33 [Skill Badge] Perform Foundational Data, ML, and AI Tasks in Google Cloud:
+160 Cloud Natural Language API - Qwik Start.pdf
+161 Google Cloud Speech API - Qwik Start.pdf
+162 Perform Foundational Data, ML, and AI Tasks in Google Cloud - Challenge Lab.pdf
 README.pdf
