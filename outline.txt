@@ -261,7 +261,15 @@ README.pdf
 README.pdf
 
 ./33 [Skill Badge] Perform Foundational Data, ML, and AI Tasks in Google Cloud:
-160 Cloud Natural Language API - Qwik Start.pdf
-161 Google Cloud Speech API - Qwik Start.pdf
-162 Perform Foundational Data, ML, and AI Tasks in Google Cloud - Challenge Lab.pdf
+0160 Cloud Natural Language API - Qwik Start.pdf
+0161 Google Cloud Speech API - Qwik Start.pdf
+0162 Perform Foundational Data, ML, and AI Tasks in Google Cloud - Challenge Lab.pdf
+README.pdf
+
+./34 [Quest] BigQuery Basics for Data Analysts:
+0163 BigQuery - Qwik Start - Console.pdf
+0164 BigQuery - Qwik Start - Command Line.pdf
+0165 Exploring Your Ecommerce Dataset with SQL in Google BigQuery.pdf
+0166 Troubleshooting Common SQL Errors with BigQuery.pdf
+0167 Explore and Create Reports with Data Studio.pdf
 README.pdf
