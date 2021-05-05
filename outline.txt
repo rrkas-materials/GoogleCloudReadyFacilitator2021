@@ -295,3 +295,11 @@ README.pdf
 0176 BigQuery - Qwik Start - Command Line.pdf
 0177 Exploring NCAA Data with BigQuery.pdf
 README.pdf
+
+./39 [Quest] Applied Data Blockchain:
+0178 Visualize the 10,000 Bitcoin Pizza Transaction Using BigQuery and AI Notebooks.pdf
+0179 Tracking Cryptocurrency Exchange Trades with Google Cloud Platform in Real-Time.pdf
+0180 Getting Started with Blockchain on GCP using Hyperledger Fabric and Composer.pdf
+0181 Exploring the Public Cryptocurrency Datasets Available in BigQuery.pdf
+0182 Spin Up A Blockchain Node with BlockApps STRATO in 3 minutes.pdf
+README.pdf

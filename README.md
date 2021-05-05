@@ -35,6 +35,7 @@
  22. 34 [Quest] BigQuery Basics for Data Analysts  
  23. 36 [Quest] BigQuery for Machine Learning  
  24. 38 [Quest] Bracketology with Google Cloud  
+ 25. 39 [Quest] Applied Data Blockchain  
 
 
 ## *Skill Badges*
