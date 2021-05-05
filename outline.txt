@@ -289,3 +289,9 @@ README.pdf
 ./37 [Skill Badge]  Create ML Models with BigQuery ML:
 0174 Create ML Models with BigQuery ML - Challenge Lab.pdf
 README.pdf
+
+./38 [Quest] Bracketology with Google Cloud:
+0175 Using BigQuery in the Google Cloud Console.pdf
+0176 BigQuery - Qwik Start - Command Line.pdf
+0177 Exploring NCAA Data with BigQuery.pdf
+README.pdf

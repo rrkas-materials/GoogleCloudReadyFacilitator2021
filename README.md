@@ -34,6 +34,7 @@
  21. 32 [Quest] Baseline Data, ML, AI  
  22. 34 [Quest] BigQuery Basics for Data Analysts  
  23. 36 [Quest] BigQuery for Machine Learning  
+ 24. 38 [Quest] Bracketology with Google Cloud  
 
 
 ## *Skill Badges*
