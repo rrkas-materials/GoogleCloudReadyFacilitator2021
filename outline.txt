@@ -285,3 +285,7 @@ README.pdf
 0172 Bracketology with Google Machine Learning.pdf
 0173 Implement a Helpdesk Chatbot with Dialogflow & BigQuery ML.pdf
 README.pdf
+
+./37 [Skill Badge]  Create ML Models with BigQuery ML:
+0174 Create ML Models with BigQuery ML - Challenge Lab.pdf
+README.pdf
