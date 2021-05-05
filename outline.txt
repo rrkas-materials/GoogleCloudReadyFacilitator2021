@@ -273,3 +273,7 @@ README.pdf
 0166 Troubleshooting Common SQL Errors with BigQuery.pdf
 0167 Explore and Create Reports with Data Studio.pdf
 README.pdf
+
+./35 [Skill Badge] Insights from Data with BigQuery:
+0168 Insights from Data with BigQuery - Challenge Lab.pdf
+README.pdf

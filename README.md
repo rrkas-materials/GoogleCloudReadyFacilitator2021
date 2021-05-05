@@ -53,6 +53,7 @@
 
 **Track 3**  
  12. 33 [Skill Badge] Perform Foundational Data, ML, and AI Tasks in Google Cloud  
+ 13. 35 [Skill Badge] Insights from Data with BigQuery  
 
 
 ### *Note*
