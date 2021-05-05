@@ -277,3 +277,11 @@ README.pdf
 ./35 [Skill Badge] Insights from Data with BigQuery:
 0168 Insights from Data with BigQuery - Challenge Lab.pdf
 README.pdf
+
+./36 [Quest] BigQuery for Machine Learning:
+0169 Getting Started with BQML.pdf
+0170 Predict Visitor Purchases with a Classification Model in BQML.pdf
+0171 Predict Taxi Fare with a BigQuery ML Forecasting Model.pdf
+0172 Bracketology with Google Machine Learning.pdf
+0173 Implement a Helpdesk Chatbot with Dialogflow & BigQuery ML.pdf
+README.pdf

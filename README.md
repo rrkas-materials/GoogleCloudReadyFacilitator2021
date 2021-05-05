@@ -33,6 +33,7 @@
 **Track 3**  
  21. 32 [Quest] Baseline Data, ML, AI  
  22. 34 [Quest] BigQuery Basics for Data Analysts  
+ 23. 36 [Quest] BigQuery for Machine Learning  
 
 
 ## *Skill Badges*
