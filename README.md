@@ -36,6 +36,7 @@
  23. 36 [Quest] BigQuery for Machine Learning  
  24. 38 [Quest] Bracketology with Google Cloud  
  25. 39 [Quest] Applied Data Blockchain  
+ 26. 40 [Quest] Data Engineering  
 
 
 ## *Skill Badges*

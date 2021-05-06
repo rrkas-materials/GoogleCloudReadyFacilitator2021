@@ -303,3 +303,10 @@ README.pdf
 0181 Exploring the Public Cryptocurrency Datasets Available in BigQuery.pdf
 0182 Spin Up A Blockchain Node with BlockApps STRATO in 3 minutes.pdf
 README.pdf
+
+./40 [Quest] Data Engineering:
+0183 Creating a Data Transformation Pipeline with Cloud Dataprep.pdf
+0184 ETL Processing on Google Cloud Using Dataflow and BigQuery.pdf
+0185 Predict Housing Prices with Tensorflow and AI Platform.pdf
+0186 Cloud Composer - Copying BigQuery Tables Across Different Locations.pdf
+README.pdf
