@@ -314,3 +314,10 @@ README.pdf
 ./41 [Skill Badge] Engineer Data in Google Cloud:
 0187 Engineer Data in Google Cloud - Challenge Lab.pdf
 README.pdf
+
+./42 [Quest] Cloud SQL:
+0188 Loading Data into Google Cloud SQL.pdf
+0189 Cloud SQL with Terraform.pdf
+0190 Using Ruby on Rails with Cloud SQL for PostgreSQL.pdf
+0191 Connect to Cloud SQL from an Application in Kubernetes Engine.pdf
+README.pdf
