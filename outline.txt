@@ -310,3 +310,7 @@ README.pdf
 0185 Predict Housing Prices with Tensorflow and AI Platform.pdf
 0186 Cloud Composer - Copying BigQuery Tables Across Different Locations.pdf
 README.pdf
+
+./41 [Skill Badge] Engineer Data in Google Cloud:
+0187 Engineer Data in Google Cloud - Challenge Lab.pdf
+README.pdf
