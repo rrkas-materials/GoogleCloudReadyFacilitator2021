@@ -40,6 +40,7 @@
  26. 40 [Quest] Data Engineering  
  27. 42 [Quest] Cloud SQL  
  28. 43 [Quest] BigQuery for Data Warehousing  
+ 29. 44 [Quest] Scientific Data Processing  
 
 
 ## *Skill Badges*

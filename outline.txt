@@ -330,3 +330,11 @@ README.pdf
 0196 Working with JSON, Arrays, and Structs in BigQuery.pdf
 0197 Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors.pdf
 README.pdf
+
+./44 [Quest] Scientific Data Processing:
+0198 Introduction to SQL for BigQuery and Cloud SQL.pdf
+0199 Rent-a-VM to Process Earthquake Data.pdf
+0200 Distributed Image Processing in Cloud Dataproc.pdf
+0201 Analyzing Natality Data Using AI Platform and BigQuery.pdf
+0202 Predict Baby Weight with TensorFlow on AI Platform.pdf
+README.pdf
