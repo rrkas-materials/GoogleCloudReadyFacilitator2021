@@ -321,3 +321,12 @@ README.pdf
 0190 Using Ruby on Rails with Cloud SQL for PostgreSQL.pdf
 0191 Connect to Cloud SQL from an Application in Kubernetes Engine.pdf
 README.pdf
+
+./43 [Quest] BigQuery for Data Warehousing:
+0192 BigQuery - Qwik Start - Command Line.pdf
+0193 Creating a Data Warehouse Through Joins and Unions.pdf
+0194 Creating Date-Partitioned Tables in BigQuery.pdf
+0195 Troubleshooting and Solving Data Join Pitfalls.pdf
+0196 Working with JSON, Arrays, and Structs in BigQuery.pdf
+0197 Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors.pdf
+README.pdf

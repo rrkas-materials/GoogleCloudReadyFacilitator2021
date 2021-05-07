@@ -39,6 +39,7 @@
  25. 39 [Quest] Applied Data Blockchain  
  26. 40 [Quest] Data Engineering  
  27. 42 [Quest] Cloud SQL  
+ 28. 43 [Quest] BigQuery for Data Warehousing  
 
 
 ## *Skill Badges*
