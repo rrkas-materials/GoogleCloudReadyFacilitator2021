@@ -41,6 +41,7 @@
  27. 42 [Quest] Cloud SQL  
  28. 43 [Quest] BigQuery for Data Warehousing  
  29. 44 [Quest] Scientific Data Processing  
+ 30. 45 [Quest] Intro to ML Language Processing  
 
 
 ## *Skill Badges*
@@ -66,6 +67,6 @@
  15. 41 [Skill Badge] Engineer Data in Google Cloud  
 
 
-### *Note*
- - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.
- - follow outline.txt to find where the lab is located in the folder hierarchy.
+## *Note*  
+ - If you couldn't find any/some lab(s) in a quest/ skill badge, the lab(s) has been done in previous quests/ skill badges.  
+ - follow outline.txt to find where the lab is located in the folder hierarchy.  

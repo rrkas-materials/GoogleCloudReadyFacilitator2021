@@ -338,3 +338,7 @@ README.pdf
 0201 Analyzing Natality Data Using AI Platform and BigQuery.pdf
 0202 Predict Baby Weight with TensorFlow on AI Platform.pdf
 README.pdf
+
+./45 [Quest] Intro to ML Language Processing:
+0203 Speech to Text Transcription with the Cloud Speech API.pdf
+README.pdf
