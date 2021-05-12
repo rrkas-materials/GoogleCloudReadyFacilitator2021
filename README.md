@@ -1,9 +1,14 @@
 # ***Google Cloud Ready Facilitator 2021***
 
+
+
 ## *Tracks*
  1. **Track 1** : Cloud Infrastructure Track
  2. **Track 2** : Cloud-native Application Development Track
  3. **Track 3** : Big Data & Machine Learning Track
+
+
+
 
 
 ## *Quests*
@@ -44,6 +49,9 @@
  30. 45 [Quest] Intro to ML Language Processing  
 
 
+
+
+
 ## *Skill Badges*
 **Track 1**  
  1. 02 [Skill Badge] Getting Started Create and Manage Cloud Resources
@@ -65,6 +73,13 @@
  13. 35 [Skill Badge] Insights from Data with BigQuery  
  14. 37 [Skill Badge]  Create ML Models with BigQuery ML  
  15. 41 [Skill Badge] Engineer Data in Google Cloud  
+
+
+
+## *Courses*
+ 1. 46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals  
+
+
 
 
 ## *Note*  

@@ -342,3 +342,53 @@ README.pdf
 ./45 [Quest] Intro to ML Language Processing:
 0203 Speech to Text Transcription with the Cloud Speech API.pdf
 README.pdf
+
+./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals:
+module 1 [Welcome to course]/
+module 2 [So, What's the Cloud Anyway]/
+module 3 [Start with a Solid Platform]/
+module 4 [Use Google Cloud to Build Your Apps]/
+README.pdf
+
+./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 1 [Welcome to course]:
+1 GCCF-Course-1-Intro.pdf
+2 [VIDEO] Course Introduction.txt
+3 [VIDEO] Course Objectives.txt
+
+./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 2 [So, What's the Cloud Anyway]:
+1 [VIDEO] Module 1 Introduction.txt
+2 [VIDEO] Cloud Computing.txt
+3 [VIDEO] Cloud vs. Traditional Architecture.txt
+4 [VIDEO] Iaas, PaaS, and SaaS.txt
+5 [VIDEO] Google Cloud Architecture.txt
+6 [Quiz] So What's The Cloud Anyway.pdf
+7 [VIDEO] Module 1 Summary.txt
+
+./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 3 [Start with a Solid Platform]:
+01 [VIDEO] Module 2 Introduction.txt
+02 [VIDEO] The Google Cloud Console.txt
+03 [VIDEO] Understanding Projects.txt
+04 [VIDEO] Billing in Google Cloud.txt
+05 [VIDEO] Install and Configure Cloud SDK.txt
+06 [VIDEO] Use Cloud Shell.txt
+07 [VIDEO][Lab Intro] A Tour of Qwiklabs.txt
+08 [VIDEO][Lab Intro] Getting Started with Cloud Shell & gcloud.txt
+09 [VIDEO] Google Cloud APIs.txt
+10 [VIDEO] Cloud Console Mobile App.txt
+11 [Quiz] Start with a Solid Platform.pdf
+12 [VIDEO] Module 2 Summary.txt
+
+./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 4 [Use Google Cloud to Build Your Apps]:
+01 [video] Module 3 Introduction.txt
+02 [video] Compute Options in the Cloud.txt
+03 [video] Exploring IaaS with Compute Engine.txt
+04 [video][Lab Intro] Creating a Virtual Machine.txt
+05 [video] Configuring Elastic Apps with Autoscaling.txt
+06 [video] Exploring PaaS with App Engine.txt
+07 [video][Lab Intro] App Engine - Qwikstart - Python.txt
+08 [video] Event Driven Programs with Cloud Functions.txt
+09 [video][Lab Intro] Cloud Functions - Qwikstart - Command Line.txt
+10 [video] Containerizing and Orchestrating Apps with GKE.txt
+11 [Quiz] Use Google Cloud to Build Your Apps.pdf
+12 [video] Module 3 Summary.txt
+13 GCCF-Course-1-Summary.pdf
