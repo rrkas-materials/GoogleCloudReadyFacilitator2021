@@ -343,19 +343,19 @@ README.pdf
 0203 Speech to Text Transcription with the Cloud Speech API.pdf
 README.pdf
 
-./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals:
-module 1 [Welcome to course]/
-module 2 [So, What's the Cloud Anyway]/
-module 3 [Start with a Solid Platform]/
-module 4 [Use Google Cloud to Build Your Apps]/
+./46 [Course][m0-03] Google Cloud Computing Foundations Cloud Computing Fundamentals:
+module 00 [Welcome to course]/
+module 01 [So, What's the Cloud Anyway]/
+module 02 [Start with a Solid Platform]/
+module 03 [Use Google Cloud to Build Your Apps]/
 README.pdf
 
-./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 1 [Welcome to course]:
+./46 [Course][m0-03] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 00 [Welcome to course]:
 1 GCCF-Course-1-Intro.pdf
 2 [VIDEO] Course Introduction.txt
 3 [VIDEO] Course Objectives.txt
 
-./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 2 [So, What's the Cloud Anyway]:
+./46 [Course][m0-03] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 01 [So, What's the Cloud Anyway]:
 1 [VIDEO] Module 1 Introduction.txt
 2 [VIDEO] Cloud Computing.txt
 3 [VIDEO] Cloud vs. Traditional Architecture.txt
@@ -364,7 +364,7 @@ README.pdf
 6 [Quiz] So What's The Cloud Anyway.pdf
 7 [VIDEO] Module 1 Summary.txt
 
-./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 3 [Start with a Solid Platform]:
+./46 [Course][m0-03] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 02 [Start with a Solid Platform]:
 01 [VIDEO] Module 2 Introduction.txt
 02 [VIDEO] The Google Cloud Console.txt
 03 [VIDEO] Understanding Projects.txt
@@ -378,7 +378,7 @@ README.pdf
 11 [Quiz] Start with a Solid Platform.pdf
 12 [VIDEO] Module 2 Summary.txt
 
-./46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 4 [Use Google Cloud to Build Your Apps]:
+./46 [Course][m0-03] Google Cloud Computing Foundations Cloud Computing Fundamentals/module 03 [Use Google Cloud to Build Your Apps]:
 01 [video] Module 3 Introduction.txt
 02 [video] Compute Options in the Cloud.txt
 03 [video] Exploring IaaS with Compute Engine.txt
@@ -393,13 +393,13 @@ README.pdf
 12 [video] Module 3 Summary.txt
 13 GCCF-Course-1-Summary.pdf
 
-./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud:
-module 1 [Where Do I Store This Stuff]/
-module 2 [There’s an API for That]/
-module 3 [You Can’t Secure the Cloud, Right]/
+./47 [Course][m04-06] Google Cloud Computing Foundations Infrastructure in Google Cloud:
+module 04 [Where Do I Store This Stuff]/
+module 05 [There’s an API for That]/
+module 06 [You Can’t Secure the Cloud, Right]/
 README.pdf
 
-./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 1 [Where Do I Store This Stuff]:
+./47 [Course][m04-06] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 04 [Where Do I Store This Stuff]:
 01 GCCF-Course-2-Intro.pdf
 02 [video] Module 4 Introduction.txt
 03 [video] Storage Options in the Cloud.txt
@@ -415,7 +415,7 @@ README.pdf
 13 [Quiz] Where Do I Store This Stuff.pdf
 14 [video] Module 4 Summary.txt
 
-./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 2 [There’s an API for That]:
+./47 [Course][m04-06] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 05 [There’s an API for That]:
 01 [video] Module 5 Introduction.txt
 02 [video] The Purpose of APIs.txt
 03 [video] Cloud Endpoints.txt
@@ -427,7 +427,7 @@ README.pdf
 09 [Quiz] There's an API for That.pdf
 10 [video] Module 5 Summary.txt
 
-./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 3 [You Can’t Secure the Cloud, Right]:
+./47 [Course][m04-06] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 06 [You Can’t Secure the Cloud, Right]:
 01 [video] Module 6 Introduction.txt
 02 [video] Introduction to Security in the Cloud.txt
 03 [video] The Shared Security Model.txt
@@ -439,3 +439,40 @@ README.pdf
 09 [Quiz] You Can't Secure the Cloud Right.pdf
 10 [video] Module 6 Summary.txt
 11 GCCF-Course-2-Summary.pdf
+
+./48 [Course][m07-08] Google Cloud Computing Foundations Networking and Security in Google Cloud:
+module 07 [It Helps to Network]/
+module 08 [Let Google Keep an Eye on Things]/
+README.pdf
+
+./48 [Course][m07-08] Google Cloud Computing Foundations Networking and Security in Google Cloud/module 07 [It Helps to Network]:
+01 GCCF-Course-3-Intro.pdf
+02 [video] Module 7 Introduction.txt
+03 [video] Introduction to Networking in the Cloud.txt
+04 [video] Defining a Virtual Private Cloud.txt
+05 [video] Public and Private IP Address Basics.txt
+06 [video] Google's Network Architecture.txt
+07 [video] Routes and Firewall Rules in the Cloud.txt
+08 [video] Multiple VPC Networks.txt
+09 [video][Lab Intro] Multiple VPC Networks.txt
+10 [video][Lab Solution] Multiple VPC Networks.txt
+11 [video][Lab Intro] VPC Networks - Controlling Access.txt
+12 [video][Lab Solution] VPC Networks - Controlling Access.txt
+13 [video] Building Hybrid Clouds using VPNs, Interconnecting, and Direct Peering.txt
+14 [video] Different Options for Load Balancing.txt
+15 [video][Lab Intro] HTTP Load Balancer with Cloud Armor.txt
+16 [video][Lab Solution] HTTP Load Balancer with Cloud Armor.txt
+17 [video][Lab Intro] Create an Internal Load Balancer.txt
+18 [video][Lab Solution] Create an Internal Load Balancer.txt
+19 [Quiz] It Helps to Network.pdf
+20 [video] Module 7 Summary.txt
+
+./48 [Course][m07-08] Google Cloud Computing Foundations Networking and Security in Google Cloud/module 08 [Let Google Keep an Eye on Things]:
+1 [video] Module 8 Introduction.txt
+2 [video] Introduction to Infrastructure as Code (IaC).txt
+3 [video] Cloud Deployment Manager.txt
+4 [video] Monitoring and Managing Your Services, Applications, and I.txt
+5 [video] Cloud Monitoring (formerly known as Stackdriver).txt
+6 [Quiz] Let Google Keep an Eye on Things.pdf
+7 [video] Module 8 Summary.txt
+8 GCCF-Course-3-Summary.pdf
