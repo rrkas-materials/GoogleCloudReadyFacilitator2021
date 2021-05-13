@@ -476,3 +476,41 @@ README.pdf
 6 [Quiz] Let Google Keep an Eye on Things.pdf
 7 [video] Module 8 Summary.txt
 8 GCCF-Course-3-Summary.pdf
+
+./49 [Course][m09-10] Google Cloud Computing Foundations Data, ML, and AI in Google Cloud:
+module 09 [You Have the Data, but What Are You Doing with It]/
+module 10 [Let Machines Do the Work]/
+module z [Course Summary]/
+README.pdf
+
+./49 [Course][m09-10] Google Cloud Computing Foundations Data, ML, and AI in Google Cloud/module 09 [You Have the Data, but What Are You Doing with It]:
+01 GCCF-Course-4-Intro.pdf
+02 [video] Module 9 Introduction.txt
+03 [video] Intro to Big Data Managed Services in the Cloud.txt
+04 [video] Leverage Big Data Operations with Cloud Datapro.txt
+05 [video][Lab Intro] Dataproc - Qwik Start - Console.txt
+06 [video][Lab Intro] Dataproc - Qwik Start - Command Line.txt
+07 [video] Build Extract, Transform, and Load Pipelines us.txt
+08 [video][Lab Intro] Dataflow - Qwik Start - Templates.txt
+09 [video][Lab Intro] Dataflow - Qwik Start - Python.txt
+10 [video] BigQuery, Google's Enterprise Data Warehouse.txt
+11 [Quiz] Let Google Keep an Eye on Things.pdf
+12 [video] Module 9 Summary.txt
+
+./49 [Course][m09-10] Google Cloud Computing Foundations Data, ML, and AI in Google Cloud/module 10 [Let Machines Do the Work]:
+01 [video] Module 10 Introduction.txt
+02 [video] Introduction to Machine Learning.txt
+03 [video] Machine Learning and Google Cloud.txt
+04 [video] Qwik, Draw.txt
+05 [video] Qwik, Draw screencast.txt
+06 [video] Building Bespoke Machine Learning Models with AI Platform.txt
+07 [video][Lab Intro] AI Platform - Qwik Start.txt
+08 [video] Cloud AutoML.txt
+09 [video] Google's Pre-trained Machine Learning APIs.txt
+10 [video][Lab Intro] ML API Qwik Start Labs.txt
+11 [Quiz] Let Machines Do the Work.pdf
+12 [video] Module 10 Summary.txt
+
+./49 [Course][m09-10] Google Cloud Computing Foundations Data, ML, and AI in Google Cloud/module z [Course Summary]:
+1 GCCF-Course-4-Summary.pdf
+2 [video] Course Summary.txt
