@@ -78,7 +78,7 @@
 
 ## *Courses*
  1. 46 [Course] Google Cloud Computing Foundations Cloud Computing Fundamentals  
-
+ 2. 47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud  
 
 
 

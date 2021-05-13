@@ -392,3 +392,50 @@ README.pdf
 11 [Quiz] Use Google Cloud to Build Your Apps.pdf
 12 [video] Module 3 Summary.txt
 13 GCCF-Course-1-Summary.pdf
+
+./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud:
+module 1 [Where Do I Store This Stuff]/
+module 2 [There’s an API for That]/
+module 3 [You Can’t Secure the Cloud, Right]/
+README.pdf
+
+./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 1 [Where Do I Store This Stuff]:
+01 GCCF-Course-2-Intro.pdf
+02 [video] Module 4 Introduction.txt
+03 [video] Storage Options in the Cloud.txt
+04 [video] Structured and Unstructured Storage in the Cloud.txt
+05 [video] Unstructured Storage using Cloud Storage.txt
+06 [video][Lab Intro] Cloud Storage - Qwikstart - CLI_SDK.txt
+07 [video] SQL Managed Services.txt
+08 [video] Exploring Cloud SQL.txt
+09 [video] Cloud Spanner as a Managed Service.txt
+10 [video] NoSQL Managed Services Options.txt
+11 [video] Cloud Datastore a NoSQL Document Store.txt
+12 [video] Cloud Bigtable as a NoSQL Option.txt
+13 [Quiz] Where Do I Store This Stuff.pdf
+14 [video] Module 4 Summary.txt
+
+./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 2 [There’s an API for That]:
+01 [video] Module 5 Introduction.txt
+02 [video] The Purpose of APIs.txt
+03 [video] Cloud Endpoints.txt
+04 [video][Lab Intro] Cloud Endpoints - Qwik Start.txt
+05 [video] Using Apigee.txt
+06 [video] Managed Message Services.txt
+07 [video] Cloud Pub_Sub.txt
+08 [video][Lab Intro] Cloud Pub Sub - Qwik Start - Python.txt
+09 [Quiz] There's an API for That.pdf
+10 [video] Module 5 Summary.txt
+
+./47 [Course] Google Cloud Computing Foundations Infrastructure in Google Cloud/module 3 [You Can’t Secure the Cloud, Right]:
+01 [video] Module 6 Introduction.txt
+02 [video] Introduction to Security in the Cloud.txt
+03 [video] The Shared Security Model.txt
+04 [video] Encryption Options.txt
+05 [video] Authentication and Authorization with Cloud IAM.txt
+06 [video][Lab Intro] User Authentication - Identity-Aware Proxy.txt
+07 [video][Lab Solution] User Authentication.txt
+08 [video] Identify Best Practices for Authorization using Cloud IAM.txt
+09 [Quiz] You Can't Secure the Cloud Right.pdf
+10 [video] Module 6 Summary.txt
+11 GCCF-Course-2-Summary.pdf
